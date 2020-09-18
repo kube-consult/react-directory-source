@@ -1,0 +1,87 @@
+[
+  {
+    "id": 1,
+    "name": "SpongeBob",
+    "occupation": "Fry Cook",
+    "location": "A Pineapple Under the Sea",
+    "team": 2
+
+  },
+  {
+    "id": 2,
+    "name": "Mr. Krabs",
+    "occupation": "Restaurant Owner",
+    "location": "A Giant Anchor",
+    "team": 8
+  },
+  {
+    "id": 3,
+    "name": "Squidward",
+    "occupation": "Cashier",
+    "location": "Nowhere, Kansas",
+    "team": 3
+  },
+  {
+    "id": 4,
+    "name": "Dexter",
+    "occupation": "Boy Genius",
+    "location": "A Secret Laboratory",
+    "team": 8
+  },
+  {
+    "id": 5,
+    "name": "Courage",
+    "occupation": "A Cowardly Dog",
+    "location": "Nowhere, Kansas",
+    "team": 8
+  },
+  {
+    "id": 6,
+    "name": "Doug Funnie",
+    "occupation": "Student",
+    "location": "Bluffington",
+    "team": 6
+  },
+  {
+    "id": 7,
+    "name": "Bugs Bunny",
+    "occupation": "Looney Toon",
+    "location": "Nowhere, Kansas",
+    "team": 3
+  },
+  {
+    "id": 8,
+    "name": "Johnny Bravo",
+    "occupation": "Ladies Man",
+    "location": "Aron City",
+    "team": 3
+  },
+  {
+    "id": 9,
+    "name": "Tommy Pickles",
+    "occupation": "Adventurer",
+    "location": "California",
+    "team": 3
+  },
+  {
+    "id": 10,
+    "name": "Rocko",
+    "occupation": "Cashier",
+    "location": "O-Town, California",
+    "team": 3
+  },
+  {
+    "id": 11,
+    "name": "Captain Planet",
+    "occupation": "Cashier",
+    "location": "Earth",
+    "team": 4
+  },
+  {
+    "id": 12,
+    "name": "Ickis",
+    "occupation": "Adventurer",
+    "location": "Under a City Dump",
+    "team": 6
+  }
+]
